@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHONGJIXUAN
-- 👀 I’m interested in learning C++ and python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning Javascript and React
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
