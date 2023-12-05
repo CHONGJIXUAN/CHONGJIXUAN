@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CHONGJIXUAN
-- 👀 I’m interested in learning Javascript and React
+- 👀 I’m interested in learning Front End with React and Back End with Java
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
